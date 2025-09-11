@@ -11,3 +11,4 @@
 <img width="302" height="685" alt="image" src="https://github.com/user-attachments/assets/dc8e8dfd-b5cc-4f52-994a-a908bcd78e85" />
 <img width="974" height="255" alt="image" src="https://github.com/user-attachments/assets/e74674f3-9090-41cb-85ac-5abd0baba706" />
 <img width="974" height="433" alt="image" src="https://github.com/user-attachments/assets/58844817-ff44-48b8-ab36-df38c45fa84a" />
+[пкс 1 практика.docx](https://github.com/user-attachments/files/22273890/1.docx)
