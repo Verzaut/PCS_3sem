@@ -1,6 +1,6 @@
-ЭФБО-06-23
-Хайров Матвей Артёмович
-
+Программирование корпоративных систем 
+Отчет по практическому занданию номер 1
+ЭФБО-06-23 Хайров Матвей Артёмович
 
 <img width="974" height="264" alt="image" src="https://github.com/user-attachments/assets/52296b06-e7b4-4306-9d17-752587fbce2e" />
 <img width="974" height="191" alt="image" src="https://github.com/user-attachments/assets/9155be20-ae9e-4520-b7da-a3c7366ef0de" />
