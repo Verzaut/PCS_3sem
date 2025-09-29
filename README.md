@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_create_state_practice_khairov
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Main
+>>>>>>> 1aa5c13b688edc335162c016f0237c5d030befcd
