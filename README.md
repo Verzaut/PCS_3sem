@@ -1,20 +1,14 @@
-<<<<<<< HEAD
-# flutter_create_state_practice_khairov
+Хайров Матвей Артёмович ЭФБО-06-23
+<img width="632" height="1407" alt="image" src="https://github.com/user-attachments/assets/cf671b7b-b281-4af5-ad81-c8bb809df6aa" />
+<img width="627" height="1386" alt="image" src="https://github.com/user-attachments/assets/936e032c-bfe5-46a9-82b4-d445d26672c6" />
+<img width="639" height="1393" alt="image" src="https://github.com/user-attachments/assets/b7ce51dd-4219-4930-8524-01865e2835b7" />
+<img width="634" height="1397" alt="image" src="https://github.com/user-attachments/assets/deb0ec3a-2212-45ad-9d46-b2b1f7240519" />
+MaterialApp - корневой виджет приложения
+Center - выравнивание содержимого по центру экрана
+Column - вертикальное расположение элементов
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-Main
->>>>>>> 1aa5c13b688edc335162c016f0237c5d030befcd
+incrementCounter() - увеличивает счетчик на 1
+restartCounter() - сбрасывает счетчик на 0
+longCounter() - увеличивает счетчик на 10
+onPressed - стандартное нажатие кнопки
+onLongPress - длительное удержание кнопки
