@@ -1,4 +1,4 @@
-Хайров Матвей Артёмович ЭФБО-06-23
+Практическая 4 Хайров Матвей Артёмович ЭФБО-06-23
 
 
 <img width="632" height="1407" alt="image" src="https://github.com/user-attachments/assets/cf671b7b-b281-4af5-ad81-c8bb809df6aa" />
