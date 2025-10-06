@@ -4,11 +4,14 @@
 1) Создать заметки с помощью Flutter-приложения
 2) Научится использовать ListView.builder и отработать работу с виджитами состояния такие как: StatefulWidget
 3) Отработать работу с формами и валидацией
-
-<img width="697" height="40" alt="image" src="https://github.com/user-attachments/assets/5f07dc53-dd41-4f93-8747-e698ad4832f4" />
+4) 
 кнопка удаления
-<img width="684" height="114" alt="image" src="https://github.com/user-attachments/assets/0d25ce59-1105-4bb0-9589-0d26850a219f" />
+<img width="697" height="40" alt="image" src="https://github.com/user-attachments/assets/5f07dc53-dd41-4f93-8747-e698ad4832f4" />
+
 свайп для того чтобы удалить заметку
+<img width="684" height="114" alt="image" src="https://github.com/user-attachments/assets/0d25ce59-1105-4bb0-9589-0d26850a219f" />
+
+поисковик
 <img width="896" height="464" alt="image" src="https://github.com/user-attachments/assets/6336b17d-ebca-44f7-9f24-7bd0920a68ce" />
 <img width="468" height="1042" alt="image" src="https://github.com/user-attachments/assets/552ba0a0-8b96-41cf-9145-b4f4772af269" />
 <img width="480" height="1053" alt="image" src="https://github.com/user-attachments/assets/a98d2885-1057-4268-82fc-36297964001d" />
