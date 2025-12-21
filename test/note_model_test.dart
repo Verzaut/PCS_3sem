@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:simple_notes/models/note.dart';
+import 'package:safe_notes/models/note.dart';
 
 void main() {
   group('Note Model Tests', () {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:simple_notes/main.dart';
+import 'package:safe_notes/main.dart';
 
 void main() {
   // Хелпер для поиска текста только внутри ListTile
