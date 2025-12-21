@@ -6,6 +6,7 @@
 Иконка и сплэш-экран
 
 
+
 <img width="255" height="131" alt="image" src="https://github.com/user-attachments/assets/da7c81be-d29a-4d63-9edc-4ffb95651070" />
 
 
