@@ -1,0 +1,34 @@
+name: restaurant_critic
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Убрал дубликат image_picker - оставляем только один раз
+  image_picker: ^1.0.4
+  
+  # Остальные зависимости
+  path_provider: ^2.1.1
+  path: ^1.8.3
+  cached_network_image: ^3.3.0
+  intl: ^0.18.1
+  supabase_flutter: ^2.0.0
+  flutter_hooks: ^0.20.0
+  provider: ^6.0.0
+  go_router: ^12.0.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
